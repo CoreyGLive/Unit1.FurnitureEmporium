@@ -1,0 +1,33 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #C2C2C2;
+}
+
+p {
+  font-size: 16px;
+  color: #000000;
+}
+
+.text-box {
+      border: 2px solid black; /* Black border */
+      padding: 10px;         /* Space between text and border */
+      display: inline-block; /* Keeps the box size close to the text */
+      margin: 15px;          /* Adds space between the boxes */
+      border-radius: 5px;    /* Rounded corners */
+      background-color: white; /* Light background */
+    }
+
+button {
+  color: white;
+  background-color: rgb(2, 151, 2);
+}
+
+.discount {
+  font-size: 26px;
+  color: rgb(2, 151, 2);
+}
+
+s {
+  font-size: 16px;
+  color: gray;
+}
